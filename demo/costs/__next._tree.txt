@@ -1,0 +1,8 @@
+:HL["/fast-maintenance-solutions-preview/_next/static/media/675812cc1bc8d273-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/fast-maintenance-solutions-preview/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/fast-maintenance-solutions-preview/_next/static/css/b18977f4caf980e8.css","style"]
+:HL["/fast-maintenance-solutions-preview/_next/static/css/9ff2ec0db9304425.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"costs","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"demo","h":96,"c":"$Q2"}]]
+0:{"b":"RqClAmEx_GH7rR_nBqP2Y","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
