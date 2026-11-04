@@ -15,6 +15,6 @@ A design preview for Anthony Lotito and Jason to review on desktop and mobile.
 
 ## Review notes
 
-The calculator uses illustrative starting figures. The checkout is a simulation and does not process payments. Contact inquiries are configured for Anthony’s existing inbox through FormSubmit; activation and a received test message are still pending.
+The calculator uses illustrative starting figures. The checkout is a simulation and does not process payments. Contact inquiries are saved in the private Paycreate portal and notify Jason and Anthony. The review form uses the same live intake as the business website.
 
 This repository contains the generated website preview. It does not contain the source proposal, local setup tools, or credentials. The merchant photos are illustrative images, not actual customers or endorsements.
